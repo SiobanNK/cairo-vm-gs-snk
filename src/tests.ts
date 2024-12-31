@@ -110,3 +110,7 @@ function testRunner() {
 
   test.finish();
 }
+
+function test_git() {
+  Logger.log("hello");
+}
